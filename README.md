@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name : Md Aftab Ansari
-### Reg. No : 212224060149
+### Name : Aswathaman.N
+### Reg. No : 212224060029
 
 ## Algorithm or Steps Involved:
 <ol>
